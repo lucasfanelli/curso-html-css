@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: rgba(0, 0, 0, 0.801);
+  text-align: center;
+
+ 
+}
+
+h1,
+p, a{
+  color: white;
+}
